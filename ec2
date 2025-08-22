@@ -19,5 +19,5 @@ Resources:
 
 Outputs:
   InstanceId:
-    Description: The ID of the EC2 instance is may be something like
+    Description: The ID of the EC2 instance is may be something like .............................
     Value: !Ref EC2Instance
